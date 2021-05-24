@@ -34,3 +34,7 @@ npm start
 - [ ] Add "Create Booking" Page (4 points)
 - [ ] Create "Cancel Booking" Endpoint (2 points)
 - [ ] Add "Cancel Booking" Page (2 points)
+
+
+
+<img width="859" alt="Screen Shot 2021-05-24 at 3 21 04 PM" src="https://user-images.githubusercontent.com/74579728/119414099-c4a87e80-bca3-11eb-84ab-46ed0fde89e0.png">
