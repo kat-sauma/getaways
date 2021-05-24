@@ -9,7 +9,7 @@ export default function App() {
   <Switch>
     <Route exact path="/" component = {Getaways} />
     <Route exact path="/:id" />
-    <Getaways />
+
   </Switch>
 </Router>;
 }
